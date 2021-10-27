@@ -20,14 +20,15 @@ A Next Level Week, ou NLW, foi um evento realizado pela Rocketseat no qual duran
 O projeto consiste em fazer um login na plataforma de mensagens DoWhile realizando uma autenticação com o github, após autenticado, o usuário estará habilitado
 a enviar mensagens que seram exibidas a esquerda.
 
-## :rocket: Tecnologias Front-End
+## :rocket: Tecnologias
+## Tecnologias Front-End
 
 As tecnologias utilizadas durante o estudo foram:
 
 - 💠 **React.Js** — Para construção da página com HTML, SCSS, e Typescript
 
 
-## :rocket: Tecnologias Back-End
+## Tecnologias Back-End
 
 As tecnologias utilizadas durante o estudo foram:
 
